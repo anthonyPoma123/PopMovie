@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": 1,
+    "title": "El Padrino",
+    "year": 1972,
+    "category": "Drama",
+    "rating": 9.2,
+    "poster": "https://images.unsplash.com/photo-1489599510969-ce1252c8a4d3?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "category": "Crimen",
+    "rating": 8.9,
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "El Señor de los Anillos",
+    "year": 2001,
+    "category": "Fantasía",
+    "rating": 8.8,
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Matrix",
+    "year": 1999,
+    "category": "Ciencia Ficción",
+    "rating": 8.7,
+    "poster": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "category": "Drama",
+    "rating": 8.8,
+    "poster": "https://images.unsplash.com/photo-1489599505969-4d1032f19c42?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Goodfellas",
+    "year": 1990,
+    "category": "Crimen",
+    "rating": 8.7,
+    "poster": "https://images.unsplash.com/photo-1489084917392-a6c7a8a8b915?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "El Imperio Contraataca",
+    "year": 1980,
+    "category": "Ciencia Ficción",
+    "rating": 8.7,
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Casablanca",
+    "year": 1942,
+    "category": "Romance",
+    "rating": 8.5,
+    "poster": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "Interstellar",
+    "year": 2014,
+    "category": "Ciencia Ficción",
+    "rating": 8.6,
+    "poster": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?w=300&h=450&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "El Caballero Oscuro",
+    "year": 2008,
+    "category": "Acción",
+    "rating": 9.0,
+    "poster": "https://images.unsplash.com/photo-1489599510969-ce1252c8a4d3?w=300&h=450&fit=crop"
+  }
+]
